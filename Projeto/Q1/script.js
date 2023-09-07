@@ -1,4 +1,4 @@
-//variáveis
+// Questão 01
 var a = 10;
 var b = 5;
 var c = 1;
